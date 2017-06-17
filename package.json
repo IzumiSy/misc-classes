@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/IzumiSy/misc-css/issues"
   },
-  "homepage": "https://github.com/IzumiSy/misc-css#readme"
+  "homepage": "https://github.com/IzumiSy/misc-css#readme",
+  "devDependencies": {
+    "minifier": "^0.8.1"
+  }
 }
