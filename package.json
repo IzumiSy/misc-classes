@@ -4,6 +4,9 @@
   "description": "Miscellaneous class pack",
   "main": "misc-classes.css",
   "style": "misc-classes.css",
+  "scripts": {
+    "build": "minify misc-classes.css"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IzumiSy/misc-css.git"
