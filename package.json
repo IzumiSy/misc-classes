@@ -1,0 +1,22 @@
+{
+  "name": "misc-classes",
+  "version": "1.0.0",
+  "description": "Miscellaneous class pack",
+  "main": "misc-classes.css",
+  "style": "misc-classes.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzumiSy/misc-css.git"
+  },
+  "keywords": [
+    "css",
+    "web",
+    "front-end"
+  ],
+  "author": "IzumiSy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IzumiSy/misc-css/issues"
+  },
+  "homepage": "https://github.com/IzumiSy/misc-css#readme"
+}
