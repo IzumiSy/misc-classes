@@ -1,4 +1,4 @@
-# misc-css
+# misc-classes
 [![npm version](https://badge.fury.io/js/misc-classes.svg)](https://badge.fury.io/js/misc-classes)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 > Miscellaneous class pack

@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IzumiSy/misc-css.git"
+    "url": "git+https://github.com/IzumiSy/misc-classes.git"
   },
   "keywords": [
     "css",
@@ -19,9 +19,9 @@
   "author": "IzumiSy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IzumiSy/misc-css/issues"
+    "url": "https://github.com/IzumiSy/misc-classes/issues"
   },
-  "homepage": "https://github.com/IzumiSy/misc-css#readme",
+  "homepage": "https://github.com/IzumiSy/misc-classes#readme",
   "devDependencies": {
     "minifier": "^0.8.1"
   }
